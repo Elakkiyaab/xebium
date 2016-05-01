@@ -47,6 +47,7 @@
     <developerConnection>scm:git:git@github.com:xebia/Xebium.git</developerConnection>
     <url>scm:git:http://github.com/xebia/Xebium</url>
   </scm>
+  
 
   <dependencies>
     <dependency>

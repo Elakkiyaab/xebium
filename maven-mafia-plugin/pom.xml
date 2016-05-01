@@ -15,17 +15,15 @@
     <xebium.version>0.12</xebium.version>
     <fitnesse.version>20150814</fitnesse.version>
     <slf4j.version>1.6.4</slf4j.version>
-
     <!-- Maven plugins-->
     <mafia.version>2.1.5</mafia.version>
-
     <!-- other system or environment  settings  -->
     <!-- browser types (firefox,iexplore,chrome ,opera). headless browser (phantomjs) -->
     <third.party.browser>firefox</third.party.browser>
     <operating.system>linux</operating.system>
-    <fitnesse.port>8000</fitnesse.port>
-
+    <fitnesse.port>9000</fitnesse.port>
   </properties>
+
   <dependencies>
 
     <dependency>
