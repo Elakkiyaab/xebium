@@ -9,10 +9,10 @@
 
 |System property setter fixture                     |
 |key                    |value                      |
-|webdriver.chrome.driver|./driver/${OS}/chromedriver|
+|webdriver.chrome.driver|./driver/${OS}/chromedriver.exe|
 
 |System property setter fixture                 |
 |key                |value                      |
-|webdriver.ie.driver|./driver/${OS}/chromedriver|
+|webdriver.ie.driver|C:\elakkiya\xebium\maven-mafia-plugin\driver\${OS}\chromedriver|
 
 

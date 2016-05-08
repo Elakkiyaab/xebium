@@ -19,8 +19,8 @@
     <mafia.version>2.1.5</mafia.version>
     <!-- other system or environment  settings  -->
     <!-- browser types (firefox,iexplore,chrome ,opera). headless browser (phantomjs) -->
-    <third.party.browser>firefox</third.party.browser>
-    <operating.system>linux</operating.system>
+    <third.party.browser>chrome</third.party.browser>
+    <operating.system>win</operating.system>
     <fitnesse.port>9000</fitnesse.port>
   </properties>
 

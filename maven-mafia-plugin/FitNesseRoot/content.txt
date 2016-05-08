@@ -1,11 +1,11 @@
-# File created by Mafia plugin on Sun May 01 13:32:57 PDT 2016
+# File created by Mafia plugin on Sun May 08 01:13:22 PDT 2016
 # More info: https://github.com/sijpesteijn/mafia-maven-plugin
 
 !note Statics:
 !define TEST_SYSTEM {slim}
 !define DRIVERS {C:\elakkiya\xebium\maven-mafia-plugin\}
-!define BROWSER {firefox}
-!define OS {linux}
+!define BROWSER {chrome}
+!define OS {win}
 
 !note Project Dependencies:
 !path C:\Users\MANOR\.m2\repository\org\fitnesse\fitnesse\20150814\fitnesse-20150814-standalone.jar
