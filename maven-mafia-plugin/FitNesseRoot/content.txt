@@ -1,4 +1,4 @@
-# File created by Mafia plugin on Sun May 08 01:13:22 PDT 2016
+# File created by Mafia plugin on Thu Jul 07 01:53:03 PDT 2016
 # More info: https://github.com/sijpesteijn/mafia-maven-plugin
 
 !note Statics:

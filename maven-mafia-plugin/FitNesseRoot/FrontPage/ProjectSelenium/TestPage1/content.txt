@@ -1,0 +1,4 @@
+| script | 
+| start browser| chrome | on url | http://phptravels.net/ |
+| do | open | on | / |
+|Click On My Account Sign Up|

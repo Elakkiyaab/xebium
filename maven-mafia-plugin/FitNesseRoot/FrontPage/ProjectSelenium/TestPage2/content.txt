@@ -1,0 +1,19 @@
+
+
+
+
+!| script |selenium driver fixture |
+| start browser |  chrome | on url | http://phptravels.net/ |
+| do | open | on | / |
+| ensure | do | clickAndWait | on | !-//body[@id='top']/div/div/div/div[2]/ul/li[9]/ul/li[2]/a-! |
+| ensure | do | type | on | !-//input[@name='firstname']-! | with | Balu Elakkiya |
+| ensure | do | type | on | !-//input[@name='lastname']-! | with | Rajesh |
+| ensure | do | type | on | !-//input[@name='phone']-! | with | 686141540 |
+| ensure | do | type | on | !-//input[@name='email']-! | with | !-elakkiyaab@gmail.com-! |
+| ensure | do | type | on | !-//input[@name='password']-! | with | Elak$123 |
+| ensure | do | type | on | !-//input[@name='confirmpassword']-! | with | Elak$123 |
+| ensure | do | click | on | !-//button[@type='submit']-! |
+| ensure | do | clickAndWait | on | !-//body[@id='top']/div/div/div/div[2]/ul/li/a-! |
+| stop browser |
+
+
