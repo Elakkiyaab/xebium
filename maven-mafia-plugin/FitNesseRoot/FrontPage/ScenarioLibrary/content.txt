@@ -1,1 +1,2 @@
 !include -c .FrontPage.ScenarioLibrary.SignUp
+!include -c .FrontPage.ScenarioLibrary.FlightSearch

@@ -1,9 +1,9 @@
-# File created by Mafia plugin on Thu Jul 14 13:15:14 CEST 2016
+# File created by Mafia plugin on Thu Jan 26 15:54:36 CET 2017
 # More info: https://github.com/sijpesteijn/mafia-maven-plugin
 
 !note Statics:
 !define TEST_SYSTEM {slim}
-!define DRIVERS {D:\Project\xebium\maven-mafia-plugin\}
+!define DRIVERS {D:\Project\others\xebium\maven-mafia-plugin\}
 !define BROWSER {chrome}
 !define OS {win}
 

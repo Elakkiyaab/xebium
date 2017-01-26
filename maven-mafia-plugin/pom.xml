@@ -11,7 +11,7 @@
 
   <properties>
     <!-- versions-->
-    <selenium.version>2.47.1</selenium.version>
+    <selenium.version>3.0.1</selenium.version>
     <xebium.version>0.12</xebium.version>
     <fitnesse.version>20150814</fitnesse.version>
     <slf4j.version>1.6.4</slf4j.version>
